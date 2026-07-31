@@ -1,0 +1,6 @@
+{
+  "name": "Patient Record System",
+  "description": "Comprehensive healthcare management system with patient records, AI clinical assistant, bed/ward management, pharmacy, lab diagnostics, billing, and appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
